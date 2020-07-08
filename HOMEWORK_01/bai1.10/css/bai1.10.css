@@ -1,0 +1,50 @@
+#o1{
+    background: #f00;
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 600px;
+    text-align: right;
+    border: 1px solid red;
+    padding-bottom: 7px;
+}
+#o2{
+    border: 0px 1px 1px 1px;
+    border: solid red;
+    width: 600px;
+    text-align: center;
+    background: #ffbbbb;
+    color: #f00;
+    font-size: 16px;
+
+}
+#anh{
+    border: 1px 1px 1px 0px;
+    padding: 0px 3px ;
+    border: solid red;
+}
+ul .a{
+    list-style-type: square;
+    width:338px ;
+    font-weight: bold;
+    border: 1px solid red;
+
+}
+#font{
+    color: #f00;
+}
+#left{
+    float: left;
+    width: 338px;
+    border: 0px 0px 1px 1px;
+    border: solid red;
+    min-height: 300px;
+
+}
+#right{
+    float: left;
+    width: 338px;
+    border: 0px 1px 1px 0px;
+    border: solid red;
+    min-height: 300px;
+}

@@ -1,0 +1,13 @@
+#table{
+    font-family: Tahoma;
+    font-size: 12px;
+    border: 1px solid #cc0033;
+    text-align: center;
+}
+th{
+    background-color: #cc0033;
+    color: #fff;
+}
+#left{
+    text-align: left;
+}
