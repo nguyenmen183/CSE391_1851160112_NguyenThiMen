@@ -1,0 +1,31 @@
+div.form{
+    width: 23%;
+    background-color: #fff;
+    border: 1px solid black;
+    margin: auto;
+}
+div.tenkhung{
+    margin: 0.3em;
+    text-align: center;
+}
+form{
+    margin:0.25em;
+}
+.tenkhung{
+    color: red;
+    margin: auto;
+    font-size: 20px;
+}
+table{
+    background-color: #cfebfe;
+}
+table tr td{
+    border: 1px solid black;
+    margin: 0.5em;
+}
+td.button{
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: grey;
+}

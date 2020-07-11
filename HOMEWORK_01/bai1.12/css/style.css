@@ -1,0 +1,25 @@
+div.form{
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    border: 1px solid black;
+}
+div.form div{
+    text-align: center;
+    color: teal;
+    margin: 1em;
+}
+form{
+    background-color: #e0f9d9;
+    margin: 0 0.5em 0.5em 0.5em ;
+}
+table tr td{
+    border: 1px solid black;
+    width: 100%;  
+}
+.men{
+    background-color: blueviolet;
+    align-self: centre;
+}
+
+
