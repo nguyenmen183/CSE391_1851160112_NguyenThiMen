@@ -1,0 +1,24 @@
+h1{
+    background-color: #039;
+    color: white;
+    text-align: center;
+}
+ul{
+    list-style-type: square;
+}
+div.thucdon{
+    background-color: #def0fa;
+}
+div.main{
+    display: flex;
+    height: 500px;
+}
+div.right{
+    width: 30%;
+}
+div.left{
+    width: 70%;
+}
+a.active{
+    color:red;
+}

@@ -1,0 +1,26 @@
+div.form{
+    background-color: white;
+    width: 35%;
+    margin: auto;
+    border: 1px solid black;
+}
+form{
+    background-color:#fff9c8;
+    margin: 0 0.5em 0.5em 0.5em ;
+}
+table tr td{
+    border: 1px solid black;
+    width: 100%; 
+    color: #3e8e97; 
+}
+table {
+    border-collapse: collapse;
+}
+
+.form div{
+    font-size: 30px;
+    color: #396a9f;
+    text-align: center;
+    margin: 0.7em;
+    font-weight: bolder;
+}
