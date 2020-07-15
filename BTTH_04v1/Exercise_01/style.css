@@ -1,0 +1,22 @@
+
+
+div.ht{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: -100px 0 0 -100px;
+    
+    top: 50%;
+    left: 50%;
+    border: 1px solid red;
+    border-radius: 50%;
+    background-color: red;
+    
+}
+/*
+div.circle:hover{
+    background-color: royalblue;
+    border: 2px solid royalblue;
+  
+}
+*/
