@@ -1,0 +1,18 @@
+body{
+    display: flex;
+}
+.left, .right{
+    width: 50%;
+}
+#textarea{
+    overflow: scroll;
+}
+.fs20{
+    font-size: 40px;
+}
+.fs40{
+    font-size: 100px;
+}
+.fs10{
+    font-size: 10px;
+}
