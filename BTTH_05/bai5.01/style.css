@@ -1,0 +1,12 @@
+.bg-mycolor{
+    background-color: aquamarine;
+}
+.form-group{
+    display: flex;
+}
+label{
+    width: 30%;
+}
+input{
+   width:  70%;
+}
